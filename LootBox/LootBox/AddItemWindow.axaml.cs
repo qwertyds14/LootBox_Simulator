@@ -27,7 +27,7 @@ public partial class AddItemWindow : Window
             Name = ItemNameTextBox.Text,
             Id = StaticInfo.Items.OrderBy(x => x.Id).LastOrDefault().Id + 1,
             Description = Description.Text,
-            Rare = RareTextBox.Text,
+            RareId = int.Parse(RareTextBox.Text),
             Cathegory = CathegoryTextBox.Text,
         };
 

@@ -29,7 +29,7 @@ namespace LootBox
                 Description = "Слабый",
                 Id = 1,
                 Cathegory = "ЭВМ",
-                Rare = "Обычный"
+                RareId = 1,
             }
         };
 

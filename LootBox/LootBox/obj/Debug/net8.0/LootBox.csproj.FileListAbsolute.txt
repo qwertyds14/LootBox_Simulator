@@ -376,3 +376,4 @@ C:\Users\johnd\OneDrive\Desktop\LootBox_project\LootBox\LootBox\obj\Debug\net8.0
 C:\Users\johnd\OneDrive\Desktop\LootBox_project\LootBox\LootBox\obj\Debug\net8.0\LootBox.csproj.Up2Date
 C:\Users\johnd\OneDrive\Desktop\LootBox_project\LootBox\LootBox\obj\Debug\net8.0\LootBox.genruntimeconfig.cache
 C:\Users\johnd\OneDrive\Desktop\LootBox_project\LootBox\LootBox\obj\Debug\net8.0\ref\LootBox.dll
+C:\Users\johnd\OneDrive\Desktop\LootBox_project\LootBox\LootBox\obj\Debug\net8.0\LootBox.sourcelink.json

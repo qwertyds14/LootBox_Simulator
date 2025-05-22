@@ -11,7 +11,7 @@ namespace LootBox.models
         public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-        public string Rare { get; set; }
+        public int RareId { get; set; }
         public string Cathegory { get; set; }
     }
 }

@@ -91,7 +91,7 @@
 							<TextBlock
 								Grid.Column="4"
 								Grid.Row="0"
-								Text="{Binding Rare,StringFormat=Редкость: {0}}"
+								Text="{Binding RareId,StringFormat= ID Редкости: {0}}"
 								TextWrapping="Wrap"></TextBlock>
 						</Grid>
 					</Border>
