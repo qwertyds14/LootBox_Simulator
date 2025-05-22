@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12DCB558-73D0-4600-8626-F426A94F9E7F}|LootBox\\LootBox.csproj|c:\\users\\johnd\\onedrive\\desktop\\lootbox_project\\lootbox\\lootbox\\staticinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DCB558-73D0-4600-8626-F426A94F9E7F}|LootBox\\LootBox.csproj|solutionrelative:lootbox\\staticinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DCB558-73D0-4600-8626-F426A94F9E7F}|LootBox\\LootBox.csproj|c:\\users\\johnd\\onedrive\\desktop\\lootbox_project\\lootbox\\lootbox\\models\\rare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DCB558-73D0-4600-8626-F426A94F9E7F}|LootBox\\LootBox.csproj|solutionrelative:lootbox\\models\\rare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DCB558-73D0-4600-8626-F426A94F9E7F}|LootBox\\LootBox.csproj|c:\\users\\johnd\\onedrive\\desktop\\lootbox_project\\lootbox\\lootbox\\rarewindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{12DCB558-73D0-4600-8626-F426A94F9E7F}|LootBox\\LootBox.csproj|solutionrelative:lootbox\\rarewindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DCB558-73D0-4600-8626-F426A94F9E7F}|LootBox\\LootBox.csproj|c:\\users\\johnd\\onedrive\\desktop\\lootbox_project\\lootbox\\lootbox\\addrarewindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{12DCB558-73D0-4600-8626-F426A94F9E7F}|LootBox\\LootBox.csproj|solutionrelative:lootbox\\addrarewindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DCB558-73D0-4600-8626-F426A94F9E7F}|LootBox\\LootBox.csproj|c:\\users\\johnd\\onedrive\\desktop\\lootbox_project\\lootbox\\lootbox\\additemwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{12DCB558-73D0-4600-8626-F426A94F9E7F}|LootBox\\LootBox.csproj|solutionrelative:lootbox\\additemwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RareWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\LootBox\\RareWindow.axaml",
+              "RelativeDocumentMoniker": "LootBox\\RareWindow.axaml",
+              "ToolTip": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\LootBox\\RareWindow.axaml",
+              "RelativeToolTip": "LootBox\\RareWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T13:08:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRareWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\LootBox\\AddRareWindow.axaml",
+              "RelativeDocumentMoniker": "LootBox\\AddRareWindow.axaml",
+              "ToolTip": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\LootBox\\AddRareWindow.axaml",
+              "RelativeToolTip": "LootBox\\AddRareWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T13:08:36.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rare.cs",
+              "DocumentMoniker": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\LootBox\\Models\\Rare.cs",
+              "RelativeDocumentMoniker": "LootBox\\Models\\Rare.cs",
+              "ToolTip": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\LootBox\\Models\\Rare.cs",
+              "RelativeToolTip": "LootBox\\Models\\Rare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:06:47.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticInfo.cs",
+              "DocumentMoniker": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\LootBox\\StaticInfo.cs",
+              "RelativeDocumentMoniker": "LootBox\\StaticInfo.cs",
+              "ToolTip": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\LootBox\\StaticInfo.cs",
+              "RelativeToolTip": "LootBox\\StaticInfo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:04:02.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddItemWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\LootBox\\AddItemWindow.axaml",
+              "RelativeDocumentMoniker": "LootBox\\AddItemWindow.axaml",
+              "ToolTip": "C:\\Users\\johnd\\OneDrive\\Desktop\\LootBox_project\\LootBox\\LootBox\\AddItemWindow.axaml",
+              "RelativeToolTip": "LootBox\\AddItemWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T12:36:08.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

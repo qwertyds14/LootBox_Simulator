@@ -1,0 +1,96 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="LootBox.MainWindow"
+        Title="LootBox">
+
+    <Grid RowDefinitions="*,*,*" ColumnDefinitions="*,*,*,*" ShowGridLines="False" Background="White">
+		<Button Name="LootBox_Button"
+			Grid.Row="1"
+			Grid.Column="0"
+		  Content ="Боксы"
+		  Width="180"
+		  Height="50"
+		  FontSize="15"
+		  HorizontalAlignment="Center"
+		  VerticalAlignment="Center"
+		  HorizontalContentAlignment="Center"
+		  VerticalContentAlignment="Center"
+		  Background="Gray"
+		  Foreground="Black"
+		  FontWeight="Bold"
+		  Click="LootBox_Button_Click"/>
+		
+		<Button Name="Item_Button"
+			 Grid.Row="1"
+			 Grid.Column="1"
+			Content ="Предметы"
+			Width="180"
+			Height="50"
+			FontSize="15"
+			HorizontalAlignment="Center"
+			VerticalAlignment="Center"
+			HorizontalContentAlignment="Center"
+			VerticalContentAlignment="Center"
+			Background="Gray"
+			Foreground="Black"
+			FontWeight="Bold"
+			Click="Item_Button_Click"/>
+		
+		<Button Name="Rare_Button"
+			Grid.Row="1"
+			Grid.Column="2"	
+		  Content ="Редкость"
+		  Width="180"
+		  Height="50"
+		  FontSize="15"
+		  HorizontalAlignment="Center"
+		  VerticalAlignment="Center"
+		  HorizontalContentAlignment="Center"
+		  VerticalContentAlignment="Center"
+		  Background="Gray"
+		  Foreground="Black"
+		  FontWeight="Bold"
+		  Click="Rare_Button_Click"/>
+
+		<Button Name="Cathegory_Button"
+			Grid.Row="1"
+			Grid.Column="3"
+		  Content ="Категории"
+		  Width="180"
+		  Height="50"
+		  FontSize="15"
+		  HorizontalAlignment="Center"
+		  VerticalAlignment="Center"
+		  HorizontalContentAlignment="Center"
+		  VerticalContentAlignment="Center"
+		  Background="Gray"
+		  Foreground="Black"
+		  FontWeight="Bold"
+		  Click="Cathegory_Button_Click"/>
+
+		<Button Name="Back_Button"
+			Grid.Row="3"
+			Grid.Column="3"
+				
+		Content ="Назад"
+		Width="100"
+		Height="30"
+		FontSize="15"
+		HorizontalAlignment="Center"
+		VerticalAlignment="Center"
+		HorizontalContentAlignment="Center"
+		VerticalContentAlignment="Center"
+		Background="Gray"
+		Foreground="Black"
+		FontWeight="Bold"
+		Click="Back_Button_Click"/>
+
+		<TextBlock Grid.Column="0" Grid.Row="0" Grid.RowSpan="2" Grid.ColumnSpan="4" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="30">
+			Меню администрирования
+		</TextBlock>		
+		
+	</Grid> 
+</Window>
